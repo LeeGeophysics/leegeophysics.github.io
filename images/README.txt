@@ -8,3 +8,5 @@ To change one, replace the file with another of the same name:
   lab-st1222.jpg, lab-instrument-work.jpg
   news-2026-08-image-evolve.jpg, news-2026-08-image-poster.jpg,
   news-2026-09-wtgs-booth.jpg, news-2026-10-steamfest.jpg
+  (each of the last five also has a full-size, uncropped "-full.jpg"
+  version that opens when the photo is clicked)
