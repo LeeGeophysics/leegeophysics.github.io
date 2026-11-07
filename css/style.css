@@ -727,6 +727,7 @@ ul { padding-left: 1.2rem; }
 }
 .quote p { margin: 0; }
 .quote-wide { grid-column: 1 / -1; }
+.quote-note { font-size: 0.95rem; color: var(--slate); }
 .quote figcaption {
   font-family: var(--font-mono);
   font-size: 0.78rem;
