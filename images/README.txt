@@ -8,6 +8,7 @@ To change one, replace the file with another of the same name:
   lab-st1222.jpg, lab-instrument-work.jpg
   news-2026-08-image-evolve.jpg, news-2026-08-image-poster.jpg,
   news-2026-08-snu-talk.jpg, news-2026-09-wtgs-booth.jpg,
-  news-2026-10-steamfest.jpg, news-2026-11-chukwudi-defense.jpg
-  (each of the last seven also has a full-size, uncropped "-full.jpg"
+  news-2026-10-steamfest.jpg, news-2026-11-chukwudi-defense.jpg,
+  news-2026-11-toby-defense.jpg
+  (each of the last eight also has a full-size, uncropped "-full.jpg"
   version that opens when the photo is clicked)
