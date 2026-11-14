@@ -4,7 +4,8 @@ To change one, replace the file with another of the same name:
   jake-lee.jpg, chukwudi-onyeakusi.jpg, toby-ude-akpeh.jpg,
   jerrika-stark.jpg, prasad-pothana.jpg
   fig-rock-physics.png, fig-machine-learning.png, fig-geomodeling.png,
-  fig-ccus.png, fig-induced-seismicity.png, fig-geothermal.png
+  fig-ccus.png, fig-induced-seismicity.png, fig-geothermal.png,
+  fig-critical-minerals.png
   lab-st1222.jpg, lab-instrument-work.jpg
   news-2026-08-image-evolve.jpg, news-2026-08-image-poster.jpg,
   news-2026-08-snu-talk.jpg, news-2026-09-wtgs-booth.jpg,
